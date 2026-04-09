@@ -27,8 +27,8 @@ Zusätzlich soll das System Smartphone-Funktionen wie Anrufsteuerung, Musiksteue
 
 ## Funktionen
 
-- Turn-by-Turn-Navigation oder Kompassanzeige
-- Geschwindigkeitsanzeige ohne aktive Navigation
+- Turn-by-Turn-Navigation 
+- Geschwindigkeitsanzeige oder Kompassanzeige, wenn ohne aktive Navigation
 - Anrufe annehmen, ablehnen und starten
 - Musiksteuerung
 - Lautstärkeregelung
