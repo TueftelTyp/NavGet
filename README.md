@@ -58,7 +58,7 @@ Zusätzlich unterstützt das System Smartphone-Funktionen wie Anrufsteuerung, Mu
 
 ### Funktionen
 - ✅ Turn-by-Turn-Navigation mit Pfeildarstellung und Entfernungsanzeige
-- ✅ **Arrow-Only Mode:** Reine Pfeil-Navigation (nur Richtungspfeil, keine Text-Hinweise) – zeigt immer die Richtung zum nächsten Ziel
+- ✅ Arrow-Only Mode: Reine Pfeil-Navigation (nur Richtungspfeil, keine Text-Hinweise) – zeigt immer die Richtung zum nächsten Ziel
 - ✅ Geschwindigkeitsanzeige (GPS-basiert)
 - ✅ Kompassanzeige im Standby
 - ✅ Anrufe annehmen, ablehnen und starten
@@ -160,7 +160,7 @@ Additionally, the system supports smartphone functions such as call control, mus
 
 ### Features
 - ✅ Turn-by-turn navigation with arrow display and distance indication
-- ✅ **Arrow-Only Mode:** Pure arrow navigation (directional arrow only, no text prompts) – always shows the direction to the next destination
+- ✅ Arrow-Only Mode: Pure arrow navigation (directional arrow only, no text prompts) – always shows the direction to the next destination
 - ✅ Speedometer (GPS-based)
 - ✅ Compass display in standby
 - ✅ Accept, reject, and initiate calls
