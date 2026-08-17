@@ -58,7 +58,7 @@ Zusätzlich unterstützt das System Smartphone-Funktionen wie Anrufsteuerung, Mu
 
 ### Funktionen
 - ✅ Turn-by-Turn-Navigation mit Pfeildarstellung und Entfernungsanzeige
-- ✅ Arrow-Only Mode: Reine Pfeil-Navigation (nur Richtungspfeil, keine Text-Hinweise) – zeigt immer die Richtung zum nächsten Ziel
+- ✅ **Arrow-Only Mode:** Reine Pfeil-Navigation (nur Richtungspfeil, keine Text-Hinweise) – zeigt immer die Richtung zum nächsten Ziel
 - ✅ Geschwindigkeitsanzeige (GPS-basiert)
 - ✅ Kompassanzeige im Standby
 - ✅ Anrufe annehmen, ablehnen und starten
@@ -98,24 +98,24 @@ Bestehende Lösungen wie ChronOS wurden betrachtet, wirken aber für dieses Vorh
 - [ ] iOS Companion App
 
 ### Lizenz
-Dieses Projekt ist unter der **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** Lizenz veröffentlicht. Siehe [LICENSE](LICENSE) für Details.
+Dieses Projekt ist unter der **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** Lizenz veröffentlicht. Siehe [LICENSE](LICENSE) für Details.
 
 Du darfst:
 - ✅ Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten
-- ✅ Bearbeiten — das Material remixen, verändern und darauf aufbauen
 
 Unter folgenden Bedingungen:
-- 📝 Namensnennung — Du musst angemessene Urheber- und Rechteangaben machen
-- 🚫 Nicht kommerziell — Du darfst das Material nicht für kommerzielle Zwecke nutzen
+- 📝 Namensnennung — Du musst angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+- 🚫 Nicht kommerziell — Du darfst das Material nicht für kommerzielle Zwecke nutzen.
+- 🚫 Keine Bearbeitungen — Wenn du das Material remixt, veränderst oder darauf aufbaust, darfst du die bearbeitete Fassung des Materials nicht verbreiten.
 
 ### Mitwirken / Contributing
-Beiträge sind herzlich willkommen! Besonders gesucht:
-- Hilfe bei der Android/iOS App-Entwicklung
-- CAD-Design für Gehäuse
+Beiträge, Ideen und Feedback sind herzlich willkommen! Da dieses Projekt unter einer NoDerivatives-Lizenz steht, können Forks nicht direkt als Pull Request gemerged werden, aber ich freue mich über:
+- Diskussionen und Vorschläge via Issues
+- Hilfe bei der Fehlersuche (Bug Reports)
+- CAD-Design-Ideen oder Tipps zur Hardware-Auswahl
 - Testing auf verschiedenen Motorrädern
-- Übersetzungen
 
-Erstelle einfach ein Issue oder einen Pull Request!
+Erstelle einfach ein Issue für deine Vorschläge!
 
 ---
 
@@ -160,7 +160,7 @@ Additionally, the system supports smartphone functions such as call control, mus
 
 ### Features
 - ✅ Turn-by-turn navigation with arrow display and distance indication
-- ✅ Arrow-Only Mode: Pure arrow navigation (directional arrow only, no text prompts) – always shows the direction to the next destination
+- ✅ **Arrow-Only Mode:** Pure arrow navigation (directional arrow only, no text prompts) – always shows the direction to the next destination
 - ✅ Speedometer (GPS-based)
 - ✅ Compass display in standby
 - ✅ Accept, reject, and initiate calls
@@ -200,24 +200,24 @@ Existing solutions like ChronOS have been considered but appear either too compl
 - [ ] iOS Companion App
 
 ### License
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License. See [LICENSE](LICENSE) for details.
+This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** License. See [LICENSE](LICENSE) for details.
 
 You are free to:
 - ✅ Share — copy and redistribute the material in any medium or format
-- ✅ Adapt — remix, transform, and build upon the material
 
 Under the following terms:
-- 📝 Attribution — You must give appropriate credit
-- 🚫 NonCommercial — You may not use the material for commercial purposes
+- 📝 Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- 🚫 NonCommercial — You may not use the material for commercial purposes.
+- 🚫 NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
 ### Contributing
-Contributions are welcome! Especially looking for:
-- Help with Android/iOS app development
-- CAD design for enclosures
+Contributions, ideas, and feedback are welcome! Since this project is under a NoDerivatives license, forks cannot be directly merged via pull requests, but I am happy to receive:
+- Discussions and suggestions via Issues
+- Help with debugging (Bug Reports)
+- CAD design ideas or hardware selection tips
 - Testing on different motorcycles
-- Translations
 
-Simply create an issue or pull request!
+Simply create an issue for your suggestions!
 
 ---
 
