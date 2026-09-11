@@ -35,7 +35,7 @@ Zusätzlich unterstützt das System Smartphone-Funktionen wie Anrufsteuerung, Mu
 - **Konnektivität:** Bluetooth Low Energy (BLE) zum Smartphone
 - **Lenkerhalterung:** Zwei modulare Lenkerklemmen
   - Docking-Station für das Displaymodul
-  - Bedieneinheit mit physischen Tastern
+  - Bedieneinheit mit 3 physischen Tastern
 - **Verbindung:** Kabel zwischen den Klemmen
 - **Display-Dock:** Pogo-Pins für kontaktlose Verbindung
 - **Stromversorgung:**
@@ -137,7 +137,7 @@ Additionally, the system supports smartphone functions such as call control, mus
 - **Connectivity:** Bluetooth Low Energy (BLE) to smartphone
 - **Handlebar Mount:** Two modular handlebar clamps
   - Docking station for the display module
-  - Control unit with physical buttons
+  - Control unit with 3 physical buttons
 - **Connection:** Cable between clamps
 - **Display Dock:** Pogo-Pins for contactless connection
 - **Power Supply:**
