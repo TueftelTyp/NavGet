@@ -1,0 +1,19 @@
+Immer aktiv
+ - bat_Outline [Bild, statisch]
+ - Battery [Bar]
+ - Music [Bild]
+ - Phone [Bild]
+
+NavTarget
+ - NavTarget [Bild, rotierend]
+
+NavTurn
+ - NavTurn [Bild, wechselnd]
+ - distance [Label]
+ - distance_entity [Label]
+ - street [Label]
+
+NavSpeed
+ - "arc_speed" [Arc]
+ - lbl_speed_entity [Label]
+ - lbl_speed [Label]
