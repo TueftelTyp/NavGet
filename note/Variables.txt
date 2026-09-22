@@ -1,0 +1,10 @@
+Variables:
+
+distance (integer)	= Entfernung (zur nächsten Abbiegung)
+distance_entity (string) = Einheit Entfernung (m, km, mi)
+batterylevel (integer)	= Akkustand in % (Darstellung in einer "Bar")
+street (sring)		= Straßenname
+direction (float)	= Richtung zum Ziel
+speed_max (integer)	= Maximale Geschwindigkeit (Setting)
+speed (float)		= aktuelle Geschwindigkeit
+speed_entity (string)	= Einheit für Geschwindigkeit (km/h, mph) (Setting)
