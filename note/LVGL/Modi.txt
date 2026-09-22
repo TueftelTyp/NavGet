@@ -14,6 +14,6 @@ NavTurn
  - street [Label]
 
 NavSpeed
- - "arc_speed" [Arc]
- - lbl_speed_entity [Label]
- - lbl_speed [Label]
+ - arc_speed [Arc]
+ - speed_entity [Label]
+ - speed_num [Label]
