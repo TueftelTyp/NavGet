@@ -9,13 +9,13 @@ NavTarget
  - arc [Arc] 			              -> Zeigt Geschwindigkeit (Value={speed}, Range max={speed_max}) 
 
 NavTurn
- - NavTurn [Bild, wechselnd] 	-> zeigt Bitmaps "01_ bis 17_" (Status Navigation)
+ - direction [Bild, wechselnd] 	-> zeigt Bitmaps "01_ bis 17_" (Status Navigation)
  - distance [Label] 		        -> zeigt Entfernung zur nächsten Navigationsanweisung ({distance})
  - distance_entity [Label]	   -> zeigt Einheit der Entfernung ({distance_entity})
  - street [Label]		           -> zeigt Straßennamen der nächsten Straße ({street})
  - arc [Arc] 			              -> Zeigt Geschwindigkeit (Value={speed}, Range max={speed_max})
 
 NavSpeed
-  - arc [Arc] 			             -> Zeigt Geschwindigkeit (Value={speed}, Range max={speed_max})
+ - arc [Arc] 			             -> Zeigt Geschwindigkeit (Value={speed}, Range max={speed_max})
  - speed_entity [Label]	     	-> Zeigt Einheit der Geschwindigkeit ({speed_entity})
  - speed [Label]	            	-> Zeigt Geschwindigkeit in Zahlen ({speed})
