@@ -19,3 +19,8 @@ NavSpeed
 NavTarget
  - arc [Arc] 			              -> Zeigt Geschwindigkeit (Value={speed}, Range max={speed_max}) 
  - navi [Bild, rotierend] 	   -> Zeigt Bitmap "01_straight" (rotiert immer in Richtung Ziel)
+
+
+Boot [screen]:
+(wait) 3 sekunden -> dann Main [screen]
+3x Label + spinner 
