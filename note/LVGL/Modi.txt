@@ -6,14 +6,16 @@ Immer aktiv
 
 NavTarget
  - NavTarget [Bild, rotierend]
+ - arc [Arc, Geschwindigkeit]
 
 NavTurn
  - NavTurn [Bild, wechselnd]
  - distance [Label]
  - distance_entity [Label]
  - street [Label]
+ - arc [Arc, ]
 
 NavSpeed
- - arc_speed [Arc]
+ - arc [Arc, Geschwindigkeit]
  - speed_entity [Label]
- - speed_num [Label]
+ - speed [Label]
