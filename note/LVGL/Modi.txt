@@ -4,12 +4,8 @@ Immer aktiv
  - playpause [Bild] 		         -> zeigt Bitmaps "play" / "pause" (Musik spielt/spielt nicht)
  - call [Bild]			              -> zeigt Bitmaps "incoming" / "outgoing" / "endet" (Status Telefon)
 
-NavTarget
- - navi [Bild, rotierend] 	   -> Zeigt Bitmap "arrow" (rotiert immer in Richtung Ziel)
- - arc [Arc] 			              -> Zeigt Geschwindigkeit (Value={speed}, Range max={speed_max}) 
-
 NavTurn
- - direction [Bild, wechselnd] 	-> zeigt Bitmaps "01_ bis 17_" (Status Navigation)
+ - direction [Bild, wechselnd] 	-> zeigt Bitmaps "01_straight, 02_slight_left, 03_left, 04_sharp_left, 05_slight_right, 06_right, 07_sharp_right, 08_u_turn_left, 09_u_turn_right, 10_roundabout_right,    11_roundabout_upper_right, 12_roundabout_straight, 13_roundabout_upper_left, 14_roundabout_left ,15_roundabout_lower_left, 16_roundabout_lower_right, 17_roundabout_u_turn" (Status Navigation)
  - distance [Label] 		        -> zeigt Entfernung zur nächsten Navigationsanweisung ({distance})
  - distance_entity [Label]	   -> zeigt Einheit der Entfernung ({distance_entity})
  - street [Label]		           -> zeigt Straßennamen der nächsten Straße ({street})
@@ -19,3 +15,7 @@ NavSpeed
  - arc [Arc] 			             -> Zeigt Geschwindigkeit (Value={speed}, Range max={speed_max})
  - speed_entity [Label]	     	-> Zeigt Einheit der Geschwindigkeit ({speed_entity})
  - speed_num [Label]	            	-> Zeigt Geschwindigkeit in Zahlen ({speed})
+
+NavTarget
+ - arc [Arc] 			              -> Zeigt Geschwindigkeit (Value={speed}, Range max={speed_max}) 
+ - navi [Bild, rotierend] 	   -> Zeigt Bitmap "01_straight" (rotiert immer in Richtung Ziel)
