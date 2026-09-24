@@ -1,0 +1,19 @@
+MODI:
+  t = NavTurn   |  s = NavSpeed  |  v = NavTarget
+
+MANÖVER (nur NavTurn):
+  0-9, a-g = Manöver 1-17
+
+GESCHWINDIGKEIT:
+  U = Speed +10  |  D = Speed -10
+
+AKKU:  + / -
+
+TELEFON:
+  i = Incoming | o = Outgoing | k = Ended | x = Aus
+
+MUSIK:  m = Play/Pause Toggle
+
+HELLIGKEIT:  H0-H9 = 0-90% | H10 = 100% | h = Anzeige
+
+ROTATION (nur NavTarget):  r = +45° | R = Reset
