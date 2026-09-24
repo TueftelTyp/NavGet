@@ -1,21 +1,21 @@
 Immer aktiv
- - bat_Outline [Bild, statisch]
- - Battery [Bar]
- - Music [Bild]
- - Phone [Bild]
+ - battery [Bild, statisch]
+ - batterylevel [Bar] 		       -> zeigt Akkustand 0-100 (Variable {batterylevel})
+ - playpause [Bild] 		         -> zeigt Bitmaps "play" / "pause" (Musik spielt/spielt nicht)
+ - call [Bild]			              -> zeigt Bitmaps "incoming" / "outgoing" / "endet" (Status Telefon)
 
 NavTarget
- - NavTarget [Bild, rotierend]
- - arc [Arc, Geschwindigkeit]
+ - navi [Bild, rotierend] 	   -> Zeigt Bitmap "arrow" (rotiert immer in Richtung Ziel)
+ - arc [Arc] 			              -> Zeigt Geschwindigkeit (Value={speed}, Range max={speed_max}) 
 
 NavTurn
- - NavTurn [Bild, wechselnd]
- - distance [Label]
- - distance_entity [Label]
- - street [Label]
- - arc [Arc, ]
+ - NavTurn [Bild, wechselnd] 	-> zeigt Bitmaps "01_ bis 17_" (Status Navigation)
+ - distance [Label] 		        -> zeigt Entfernung zur nächsten Navigationsanweisung ({distance})
+ - distance_entity [Label]	   -> zeigt Einheit der Entfernung ({distance_entity})
+ - street [Label]		           -> zeigt Straßennamen der nächsten Straße ({street})
+ - arc [Arc] 			              -> Zeigt Geschwindigkeit (Value={speed}, Range max={speed_max})
 
 NavSpeed
- - arc [Arc, Geschwindigkeit]
- - speed_entity [Label]
- - speed [Label]
+  - arc [Arc] 			             -> Zeigt Geschwindigkeit (Value={speed}, Range max={speed_max})
+ - speed_entity [Label]	     	-> Zeigt Einheit der Geschwindigkeit ({speed_entity})
+ - speed [Label]	            	-> Zeigt Geschwindigkeit in Zahlen ({speed})
